@@ -37,6 +37,8 @@ int main(void) {
   printf("Average: %.2f\n", avg);
 
   // Display letter grade
+  // test
+
   printf("Letter grade: %c\n", gradeFunction(avg));
 
   return 0;
